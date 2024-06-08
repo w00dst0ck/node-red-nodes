@@ -1,6 +1,6 @@
 module.exports = function(RED) {
     "use strict";
-    var tethercell = require('w00dst0ck/tethercell');
+    var tethercell = require('tethercell');
 	
     function TethercellNode(n) {
         RED.nodes.createNode(this, n);
