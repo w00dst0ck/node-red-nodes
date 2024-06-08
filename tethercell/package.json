@@ -16,7 +16,7 @@
   },
   "keywords": [
     "node-red",
-    "tethercell"
+    "w00dst0ck/tethercell"
   ],
   "node-red": {
     "nodes": {
